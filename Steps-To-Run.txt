@@ -1,0 +1,18 @@
+***************************************************************
+login-app-backend:
+***************************************************************
+1. Go to the project location in terminal via cd command
+2. mvn clean install
+3. java -jar target\login-app-backend-0.0.1-SNAPSHOT.jar
+
+
+***************************************************************
+login-app-frontend
+***************************************************************
+1. Go to the project location in terminal via cd command
+2. npm install
+3. npm start
+
+***************************************************************
+Access Application in Browser via url:  http://localhost:3000
+***************************************************************
